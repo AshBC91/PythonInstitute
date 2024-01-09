@@ -3,5 +3,5 @@ Modify the first line of code in the editor, using the sep and end keywords, to 
 
 Don't change anything in the second print() invocation.
 
-#Expected output
+### **Expected output:**
 `Programming***Essentials***in...Python`
