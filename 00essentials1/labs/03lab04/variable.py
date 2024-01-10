@@ -10,7 +10,7 @@ print()
 dom = 3
 tom = 11
 mom = 20
-total_oranges = (((adam // john) * (dom - tom) ** mom) % tom + mary) * 4 + 6
+total_oranges = (((adam // john) * (dom - tom) ** mom) % tom + mary) * 4 + adam
 
 print("Dom's oranges: ", dom, ", Tom's oranges: ", tom, ", Mom's oranges: ", mom, sep="")
 print("Total number of Oranges:", total_oranges)
