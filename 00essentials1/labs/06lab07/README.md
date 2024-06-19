@@ -18,5 +18,5 @@ We won't show you any test data - that would be too simple.
 # output the result of multiplication here
 # output the result of division here
 
-print(a, "/", b, "=", a/b)
+print("\nThat's all, folks!"))
 ```
