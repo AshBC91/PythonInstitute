@@ -20,3 +20,5 @@ We won't show you any test data - that would be too simple.
 
 print("\nThat's all, folks!"))
 ```
+
+*DISCLAIMER: I did not create this activity. This lab belongs to **Python Institute.***
