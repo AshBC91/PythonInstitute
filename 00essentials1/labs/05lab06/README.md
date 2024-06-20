@@ -27,3 +27,5 @@ y = -1.0
 y = 3.0
 y = -9.0
 ```
+
+*DISCLAIMER: I did not create this activity. This lab belongs to **Python Institute.***
