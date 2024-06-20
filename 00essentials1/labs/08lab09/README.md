@@ -14,27 +14,22 @@ Sample input:
 17
 59
 ```
-
 Expected output: `13:16`
-
-
+___
 Sample input:
 ```
 23
 58
 642
 ```
-
 Expected output: `10:40`
-
-
+___
 Sample input:
 ```
 0
 1
 2939
 ```
-
 Expected output: `1:0`
-
+___
 *DISCLAIMER: I did not create this activity. This lab belongs to **Python Institute.***
