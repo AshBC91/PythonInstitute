@@ -19,17 +19,21 @@ Test your code using the data we've provided.
 Sample input: `10000`
 
 Expected output: `The tax is: 1244.0 thalers`
+___
 
 Sample input: `100000`
 
 Expected output: `The tax is: 19470.0 thalers`
+___
 
 Sample input: `1000`
 
 Expected output: `The tax is: 0.0 thalers`
+___
 
 Sample input: `-100`
 
 Expected output: `The tax is: 0.0 thalers`
+___
 
 *DISCLAIMER: I did not create this activity. This lab belongs to **Python Institute.***
