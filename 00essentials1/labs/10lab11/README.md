@@ -21,21 +21,26 @@ Test your code using the data we've provided.
 Sample input: `2000`
 
 Expected output: `Leap year`
+___
 
 Sample input: `2015`
 
 Expected output: `Common year`
+___
 
 Sample input: `1999`
 
 Expected output: `Common year`
+___
 
 Sample input: `1996`
 
 Expected output: `Leap year`
+___
 
 Sample input: `1580`
 
 Expected output: `Not within the Gregorian calendar period`
+___
 
 **DISCLAIMER: I did not create this activity. This lab belongs to *Python Institute*.**
