@@ -32,4 +32,4 @@ Sample input: `-100`
 
 Expected output: `The tax is: 0.0 thalers`
 
-DISCLAIMER: I did not create this activity. This lab belongs to **Python Institute**.
+*DISCLAIMER: I did not create this activity. This lab belongs to **Python Institute.***
