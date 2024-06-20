@@ -9,3 +9,5 @@ Write a one-line piece of code, using the `print()` function, as well as the new
 ""learning""
 """Python"""
 ```
+
+*DISCLAIMER: I did not create this activity. This lab belongs to **Python Institute.***
