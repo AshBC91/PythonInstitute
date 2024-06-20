@@ -42,3 +42,4 @@ Expected output:
 
 `y = -0.19258202567760344`
 
+*DISCLAIMER: I did not create this activity. This lab belongs to **Python Institute.***
